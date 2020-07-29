@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Gonu923/crud-react-todo-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Gonu923/crud-react-todo-app/static/js/main.1157baac.chunk.js",
-    "main.js.map": "/Gonu923/crud-react-todo-app/static/js/main.1157baac.chunk.js.map",
-    "runtime-main.js": "/Gonu923/crud-react-todo-app/static/js/runtime-main.0c9440f9.js",
-    "runtime-main.js.map": "/Gonu923/crud-react-todo-app/static/js/runtime-main.0c9440f9.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/Gonu923/crud-react-todo-app/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.4203e29b.chunk.js": "/Gonu923/crud-react-todo-app/static/js/2.4203e29b.chunk.js",
-    "static/js/2.4203e29b.chunk.js.map": "/Gonu923/crud-react-todo-app/static/js/2.4203e29b.chunk.js.map",
-    "index.html": "/Gonu923/crud-react-todo-app/index.html",
-    "precache-manifest.f74b91c5541f6f2c3828895eb7857144.js": "/Gonu923/crud-react-todo-app/precache-manifest.f74b91c5541f6f2c3828895eb7857144.js",
-    "service-worker.js": "/Gonu923/crud-react-todo-app/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/Gonu923/crud-react-todo-app/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/Gonu923/crud-react-todo-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4203e29b.chunk.js.LICENSE.txt": "/Gonu923/crud-react-todo-app/static/js/2.4203e29b.chunk.js.LICENSE.txt"
+    "main.css": "/crud-react-todo-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/crud-react-todo-app/static/js/main.992cd6e9.chunk.js",
+    "main.js.map": "/crud-react-todo-app/static/js/main.992cd6e9.chunk.js.map",
+    "runtime-main.js": "/crud-react-todo-app/static/js/runtime-main.b4296f3b.js",
+    "runtime-main.js.map": "/crud-react-todo-app/static/js/runtime-main.b4296f3b.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/crud-react-todo-app/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4203e29b.chunk.js": "/crud-react-todo-app/static/js/2.4203e29b.chunk.js",
+    "static/js/2.4203e29b.chunk.js.map": "/crud-react-todo-app/static/js/2.4203e29b.chunk.js.map",
+    "index.html": "/crud-react-todo-app/index.html",
+    "precache-manifest.dd4582b1e50260cb653af235b3d1084e.js": "/crud-react-todo-app/precache-manifest.dd4582b1e50260cb653af235b3d1084e.js",
+    "service-worker.js": "/crud-react-todo-app/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/crud-react-todo-app/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/crud-react-todo-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4203e29b.chunk.js.LICENSE.txt": "/crud-react-todo-app/static/js/2.4203e29b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c9440f9.js",
+    "static/js/runtime-main.b4296f3b.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.4203e29b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1157baac.chunk.js"
+    "static/js/main.992cd6e9.chunk.js"
   ]
 }
